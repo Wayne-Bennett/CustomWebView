@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support.test\\rules\\0.5\\res\\values\\values.xml",
+                    "file": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\0e89ffa6d9388d60ed88c83afeab0d11d0f207ff\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

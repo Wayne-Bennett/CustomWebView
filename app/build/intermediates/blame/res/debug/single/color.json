@@ -1,50 +1,50 @@
 [
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\color\\design_error.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_search_url_text.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\3414b35d58e40e0bbcfa3a902bf7a446556e2aa9\\output\\res\\color\\design_error.xml"
     }
 ]

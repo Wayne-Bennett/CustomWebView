@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\3414b35d58e40e0bbcfa3a902bf7a446556e2aa9\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\3414b35d58e40e0bbcfa3a902bf7a446556e2aa9\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     }
 ]

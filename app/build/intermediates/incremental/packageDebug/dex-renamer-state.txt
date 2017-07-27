@@ -1,7 +1,0 @@
-#Wed Feb 22 15:20:59 AEST 2017
-base.0=D\:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1740c6af366378ef9fcbf0ed3f0f292e295dffa3
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c65e4e583e5d05544baaaa9351700fe80dc8f9e1\\classes.dex
-base.1=D\:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c65e4e583e5d05544baaaa9351700fe80dc8f9e1
-file.0=D\:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1740c6af366378ef9fcbf0ed3f0f292e295dffa3\\classes.dex

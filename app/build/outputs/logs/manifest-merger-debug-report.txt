@@ -1,84 +1,84 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:5:5-45
-		INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:5:5-45
+		INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml
 	android:installLocation
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:4:5-45
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:4:5-45
 uses-permission#android.permission.INTERNET
-ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:7:5-21:19
-MERGED from [com.android.support:design:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:25:5-20
+ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\3414b35d58e40e0bbcfa3a902bf7a446556e2aa9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\6363d96e08a31a0e148144e8d53a4592bf2bf89b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\26f36513837e26976863248d82e8e8c3d1431f58\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\d25865b1df594ef686a9201073eed7d634a0d5fd\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\e384350e60dc6d6d2c110f9aee2ef03fa8bfa35e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\8de7462d4b16bc1bddf49b2139e3f80ab9f1d1d3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\d450b55eb8c30421d02afb9068fed357cd434884\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\58bbe537e7df2fd03bb0411b7892cef6d0b43c28\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\937f073bfc88f1ba9de690a8eebbfbd9a4b80294\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\9d52584960625b3bb0b5eb246047743397837acf\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:11:9-35
 	tools:ignore
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:13:9-35
 	android:allowBackup
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:9:9-41
 	android:theme
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:12:9-59
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:12:9-59
 activity#au.com.slickapps.customwebview.MainActivity
-ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\3414b35d58e40e0bbcfa3a902bf7a446556e2aa9\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\6363d96e08a31a0e148144e8d53a4592bf2bf89b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\26f36513837e26976863248d82e8e8c3d1431f58\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\5c3205fa0bce4ac0905cbe21fcaf09f52e637c92\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\d25865b1df594ef686a9201073eed7d634a0d5fd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\e384350e60dc6d6d2c110f9aee2ef03fa8bfa35e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\8de7462d4b16bc1bddf49b2139e3f80ab9f1d1d3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\d450b55eb8c30421d02afb9068fed357cd434884\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\58bbe537e7df2fd03bb0411b7892cef6d0b43c28\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\937f073bfc88f1ba9de690a8eebbfbd9a4b80294\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\9d52584960625b3bb0b5eb246047743397837acf\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.1.1] D:\AndroidStudio\SlickApps\CustomWebView\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.1.1] C:\Users\wayne_chdb2k8\.android\build-cache\3414b35d58e40e0bbcfa3a902bf7a446556e2aa9\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudio\SlickApps\CustomWebView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\CustomWebView\app\src\main\AndroidManifest.xml

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "C:\\Users\\wayne_chdb2k8\\Source\\Repos\\Visual Studio\\CustomWebView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "D:\\AndroidStudio\\SlickApps\\CustomWebView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "C:\\Users\\wayne_chdb2k8\\.android\\build-cache\\b2e930b3655dab2b64cf4f14d7f06785f58bc02e\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
